@@ -26,3 +26,4 @@ make -j  16
 make install
 cd ../
 
+cp ./thirdparty/samtools/samtools-1.3.1/htslib-1.3.1/libhts.so ./bin/libhts.so.1
